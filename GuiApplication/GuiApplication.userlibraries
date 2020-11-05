@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.google.guava:guava:19.0">
+    <archive path="/home/abar/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1.1">
+    <archive path="/home/abar/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+  </library>
+  <library name="Maven: junit:junit:3.8.1">
+    <archive path="/home/abar/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar" />
+  </library>
+  <library name="Maven: net.sf.jung:jung-algorithms:2.1.1">
+    <archive path="/home/abar/.m2/repository/net/sf/jung/jung-algorithms/2.1.1/jung-algorithms-2.1.1.jar" />
+  </library>
+  <library name="Maven: net.sf.jung:jung-api:2.1.1">
+    <archive path="/home/abar/.m2/repository/net/sf/jung/jung-api/2.1.1/jung-api-2.1.1.jar" />
+  </library>
+  <library name="Maven: net.sf.jung:jung-graph-impl:2.1.1">
+    <archive path="/home/abar/.m2/repository/net/sf/jung/jung-graph-impl/2.1.1/jung-graph-impl-2.1.1.jar" />
+  </library>
+  <library name="Maven: net.sf.jung:jung-io:2.1.1">
+    <archive path="/home/abar/.m2/repository/net/sf/jung/jung-io/2.1.1/jung-io-2.1.1.jar" />
+  </library>
+  <library name="Maven: net.sf.jung:jung-samples:2.1.1">
+    <archive path="/home/abar/.m2/repository/net/sf/jung/jung-samples/2.1.1/jung-samples-2.1.1.jar" />
+  </library>
+  <library name="Maven: net.sf.jung:jung-visualization:2.1.1">
+    <archive path="/home/abar/.m2/repository/net/sf/jung/jung-visualization/2.1.1/jung-visualization-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.jxmapviewer:jxmapviewer2:2.2">
+    <archive path="/home/abar/.m2/repository/org/jxmapviewer/jxmapviewer2/2.2/jxmapviewer2-2.2.jar" />
+  </library>
+  <library name="Python 3.5.2 (/usr/bin/python) interpreter library">
+    <archive path="/usr/lib/python3.5" />
+    <archive path="/usr/lib/python3.5/plat-linux" />
+    <archive path="/usr/lib/python3.5/lib-dynload" />
+    <archive path="/usr/lib/python3.5/site-packages" />
+    <archive path="/home/abar/.IntelliJIdea2016.2/system/python_stubs/348993582" />
+    <archive path="/home/abar/.IntelliJIdea2016.2/config/plugins/python/helpers/python-skeletons" />
+  </library>
+</eclipse-userlibraries>
+
